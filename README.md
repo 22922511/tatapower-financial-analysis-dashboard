@@ -21,12 +21,20 @@ A financial reporting dashboard developed during my internship at Tata Power, fo
 - Power BI 
 
 ## 📁 Project Structure  
-atapower-financial-analysis/
-│
-|
-├── dashboard/ # Power BI (.pbix) file 
-├── notebooks/ # Python EDA 
-├── images/ # Dashboard screenshots
-├── README.md # Project description
-└── requirements.txt # Python packages
+atapower-financial-analysis/  
+
+│  
+
+|  
+
+├── dashboard/ # Power BI (.pbix) file  
+
+├── notebooks/ # Python EDA  
+
+├── images/ # Dashboard screenshots  
+
+├── README.md # Project description  
+
+└── requirements.txt # Python packages  
+
 
