@@ -39,6 +39,7 @@ atapower-financial-analysis/
 ├── README.md # Project description  
 
 └── requirements.txt # Python packages  
+
 ---
 
 ##
