@@ -4,16 +4,20 @@ A financial reporting dashboard developed during my internship at Tata Power, fo
 
 ## 📊 Key Features
 
-- Budget vs Actual comparison per Circle/Zone
+- Budget vs Actual comparison per Circle/District/Zone
 - Cost variance visualization by business units
 - Trend analysis of Capital and Operational expenses
 - KPI dashboards for financial health monitoring
+   - Budget Amount
+   - TECO Amount(Technical Completed)
+   - Total Scheme
+   - Total TECO Scheme
+   - Partial TECO
 
 ## 🧰 Tools & Technologies
 
 - Power BI for interactive dashboards
 - Python (pandas, matplotlib) for data cleaning & EDA
-- Excel for reconciliation and modeling
 - Power BI 
 
 ## 📁 Project Structure
