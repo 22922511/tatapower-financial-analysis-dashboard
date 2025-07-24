@@ -8,11 +8,15 @@ A financial reporting dashboard developed during my internship at Tata Power, fo
 - Cost variance visualization by business units
 - Trend analysis of Capital and Operational expenses
 - KPI dashboards for financial health monitoring
-   - Budget Amount
-   - TECO Amount(Technical Completed)
-   - Total Scheme
-   - Total TECO Scheme
-   - Partial TECO
+- 
+| Budgeted Amount (Cr) | Planned investment for each project |
+
+| TECO Amount (Cr) | Financial progress of projects |  
+
+| Scheme Count | Number of schemes per Circle |  
+
+| Unique Zones | Total distinct zones in each Circle |  
+
 
 ## 🧰 Tools & Technologies
 
