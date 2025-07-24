@@ -10,9 +10,11 @@ A financial reporting dashboard developed during my internship at Tata Power, fo
 - KPI dashboards for financial health monitoring
   
     - | Budgeted Amount (Cr) | Planned investment for each project |
-    - | TECO Amount (Cr) | Financial progress of projects |
-    - | Scheme Count | Number of schemes per Circle |
-    - | Unique Zones | Total distinct zones in each Circle |  
+    - | TECO Amount (Cr) | amount of work done   |
+    - | Scheme Count | Number of schemes per Circle/District |
+    - | Completely TECO Scheme | Total in each Circle/District/Zone |
+    - | Partial TECO Scheme | Total in each Circle/District/Zone |  
+    
 
 
 ## 🧰 Tools & Technologies
