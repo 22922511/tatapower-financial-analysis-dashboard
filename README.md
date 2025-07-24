@@ -27,9 +27,6 @@ A financial reporting dashboard developed during my internship at Tata Power, fo
 atapower-financial-analysis/  
 
 │  
-
-|  
-
 ├── dashboard/ # Power BI (.pbix) file  
 
 ├── notebooks/ # Python EDA  
