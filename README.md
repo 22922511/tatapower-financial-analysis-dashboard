@@ -39,7 +39,13 @@ atapower-financial-analysis/
 ├── README.md # Project description  
 
 └── requirements.txt # Python packages  
+---
 
+##
+<img width="406" height="217" alt="image" src="https://github.com/user-attachments/assets/129d8ee9-24d3-4537-b0a0-53cb23a09c64" />
+<img width="395" height="218" alt="image" src="https://github.com/user-attachments/assets/0293e48d-5860-452c-817d-a508a024870c" />
+
+---
 ## Visual  
 
 <img width="1437" height="812" alt="tpddldashboard1" src="https://github.com/user-attachments/assets/c1d5a9ad-12b1-474c-ba3f-a65d8f3a8a41" />
