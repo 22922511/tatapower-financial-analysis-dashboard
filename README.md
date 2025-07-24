@@ -20,5 +20,13 @@ A financial reporting dashboard developed during my internship at Tata Power, fo
 - Python (pandas, matplotlib) for data cleaning & EDA
 - Power BI 
 
-## 📁 Project Structure
+## 📁 Project Structure  
+atapower-financial-analysis/
+│
+|
+├── dashboard/ # Power BI (.pbix) file 
+├── notebooks/ # Python EDA 
+├── images/ # Dashboard screenshots
+├── README.md # Project description
+└── requirements.txt # Python packages
 
